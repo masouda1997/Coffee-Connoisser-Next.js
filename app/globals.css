@@ -1,3 +1,10 @@
+:root{
+  --text-black : #313131;
+  --text-purple:#481c48;
+  --txt-white-100: #ffffff;
+  --bg-purple:#6a2a6a;
+}
+
 * {
   box-sizing: border-box;
   padding: 0;
