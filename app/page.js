@@ -2,6 +2,7 @@
 import Image from "next/image";
 import st from "./page.module.css";
 import Banner from "../components/banner";
+import Link from "next/link";
 
 export default function Home() {
 	const handleOnBannerButtonClick = () => {
