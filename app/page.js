@@ -10,7 +10,7 @@ export default function Home() {
 		console.log("banner button click");
 	};
 	return (
-		<main className={st.main}>
+		<main className={`${st.main}`}>
 			<div className={st2.heroSec}>
 				<Banner
 					onClick={handleOnBannerButtonClick}
